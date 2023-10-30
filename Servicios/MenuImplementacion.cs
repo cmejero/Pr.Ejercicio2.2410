@@ -13,9 +13,7 @@ namespace edu.Ejercicio2._2410.Servicios
             
             int num2;
             
-
-            
-
+       
             Console.WriteLine("Introduzca numero elevador");
             num2 = Convert.ToInt32(Console.ReadLine());
 
@@ -31,8 +29,7 @@ namespace edu.Ejercicio2._2410.Servicios
 
 
 
-
-            Console.WriteLine("Introduzca numero elevador");
+            Console.WriteLine("Introduzca numero");
             num2 = Convert.ToDouble(Console.ReadLine());
 
 
